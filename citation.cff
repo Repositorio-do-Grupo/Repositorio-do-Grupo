@@ -1,0 +1,45 @@
+cff-version: 1.1.0
+message: Please cite this software using these metadata.
+title: "Segurança da Informação"
+
+authors:
+  # Alunos
+  - family-names: "Ribeiro"
+    given-names: "Arthur Rafael de Freitas"
+    affiliation: "PUC Minas"
+    identifier: "898851"
+  - family-names: "Fernandes"
+    given-names: "Eugênio Gonçalves"
+    affiliation: "PUC Minas"
+    identifier: "900003"
+  - family-names: "Trombin"
+    given-names: "Pedro"
+    affiliation: "PUC Minas"
+    identifier: "903835"
+  - family-names: "Antônio"
+    given-names: "Renan De Oliveira Martins"
+    affiliation: "PUC Minas"
+    identifier: "900507"
+  - family-names: "Novo Integrante 1"
+    given-names: "Nome"
+    affiliation: "PUC Minas"
+    identifier: "000000"
+  - family-names: "Novo Integrante 2"
+    given-names: "Nome"
+    affiliation: "PUC Minas"
+    identifier: "000000"
+
+  # Orientador
+  - family-names: "Machado"
+    given-names: "Will Ricardo dos Santos"
+    affiliation: "PUC Minas"
+    occupation: "Professor Orientador"
+
+keywords:
+  - "Segurança da Informação"
+  - "Criptografia"
+  - "CyberSecurity"
+
+repository-code: "https://github.com/Repositorio-do-Grupo/Repositorio-do-Grupo"
+version: "1.1.0"
+date-released: 2026-02-11
