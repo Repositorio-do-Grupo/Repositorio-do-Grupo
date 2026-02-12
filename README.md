@@ -12,7 +12,7 @@ O foco deste projeto no Eixo 2 consiste em desenvolver estratégias de Seguranç
 - Eugênio Gonçalves Fernandes - 900003
 - Pedro Trombin - 903835
 - Renan De Oliveira Martins Antônio - 900507
-- Nome completo do aluno 5
+- Marco Tulio da Silva Sousa - 1526239
 - Nome completo do aluno 6
 
 ## Orientador
