@@ -10,7 +10,7 @@ O foco deste projeto no Eixo 2 consiste em desenvolver estratégias de Seguranç
 
 - Arthur Rafael de Freitas Ribeiro - 898851
 - Eugênio Gonçalves Fernandes - 900003
-- Pedro Trombin - 903835
+- Pedro Tronbin - 903835
 - Renan De Oliveira Martins Antônio - 900507
 - Marco Tulio da Silva Sousa - 1526239
 - Peixoto Famoso 06
