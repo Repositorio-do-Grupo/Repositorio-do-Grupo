@@ -13,7 +13,7 @@ O foco deste projeto no Eixo 2 consiste em desenvolver estratégias de Seguranç
 - Pedro Tronbin - 903835
 - Renan De Oliveira Martins Antônio - 900507
 - Marco Tulio da Silva Sousa - 1526239
-- Peixoto Famoso 06
+- Gabriella Castro Strutz - 1633551
 
 ## Orientador
 
