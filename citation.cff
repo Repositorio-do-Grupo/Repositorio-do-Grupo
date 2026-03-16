@@ -1,6 +1,6 @@
-cff-version: 1.1.0
+cff-version: 1.2.0
 message: Please cite this software using these metadata.
-title: "Segurança da Informação"
+title: "Segurança para Negócios"
 
 authors:
   # Alunos
@@ -12,7 +12,15 @@ authors:
     given-names: "Eugênio Gonçalves"
     affiliation: "PUC Minas"
     identifier: "900003"
-  - family-names: "Trombin"
+  - family-names: "Strutz"
+    given-names: "Gabriella Castro"
+    affiliation: "PUC Minas"
+    identifier: "1633551"
+  - family-names: "Sousa"
+    given-names: "Marco Tulio da Silva"
+    affiliation: "PUC Minas"
+    identifier: "1526239"
+  - family-names: "Tronbin"
     given-names: "Pedro"
     affiliation: "PUC Minas"
     identifier: "903835"
@@ -20,14 +28,6 @@ authors:
     given-names: "Renan De Oliveira Martins"
     affiliation: "PUC Minas"
     identifier: "900507"
-  - family-names: "Novo Integrante 1"
-    given-names: "Nome"
-    affiliation: "PUC Minas"
-    identifier: "000000"
-  - family-names: "Novo Integrante 2"
-    given-names: "Nome"
-    affiliation: "PUC Minas"
-    identifier: "000000"
 
   # Orientador
   - family-names: "Machado"
@@ -41,5 +41,5 @@ keywords:
   - "CyberSecurity"
 
 repository-code: "https://github.com/Repositorio-do-Grupo/Repositorio-do-Grupo"
-version: "1.1.0"
-date-released: 2026-02-11
+version: "1.2.0"
+date-released: 2026-03-16
